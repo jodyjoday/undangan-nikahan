@@ -16,8 +16,8 @@
 
   <h2>RSVP</h2>
   <p>Silakan konfirmasi kehadiran:</p>
-  <a href="https://forms.gle/xxxx">Konfirmasi via Google Form</a><br>
-  <a href="https://wa.me/6281234567890">Konfirmasi via WhatsApp</a>
+  <a href="[https://forms.gle/xxxx](https://docs.google.com/forms/d/e/1FAIpQLSdpVptZ9lwegifL0PDE1u-Cj9IUKIJkZvwR2lQWBQqJS8ZJqQ/viewform?usp=publish-editor)">Konfirmasi via Google Form</a><br>
+  <a href="https://wa.me/6281290725153">Konfirmasi via WhatsApp</a>
 
   <h2>Galeri</h2>
   <img src="foto1.jpg" width="200">
