@@ -16,7 +16,7 @@
 
   <h2>RSVP</h2>
   <p>Silakan konfirmasi kehadiran:</p>
-  <a href="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpVptZ9lwegifL0PDE1u-Cj9IUKIJkZvwR2lQWBQqJS8ZJqQ/viewform?embedded=true" width="640" height="1170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>">Konfirmasi via Google Form</a><br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdpVptZ9lwegifL0PDE1u-Cj9IUKIJkZvwR2lQWBQqJS8ZJqQ/viewform?usp=dialog">Konfirmasi via Google Form</a><br>
   <a href="https://wa.me/6281290725153">Konfirmasi via WhatsApp</a>
 
   <h2>Galeri</h2>
