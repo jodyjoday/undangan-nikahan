@@ -26,3 +26,4 @@
   <p>Merupakan kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir serta memberikan doa restu.</p>
 </body>
 </html>
+<link rel="stylesheet" href="style.css">
