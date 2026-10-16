@@ -13,7 +13,7 @@
 
   <section class="details">
     <p>Dengan penuh rasa syukur, kami mengundang Bapak/Ibu/Saudara/i untuk hadir dalam acara pernikahan kami.</p>
-    <h3>📅 Minggu, 25 Oktober 2026</h3>
+    <h3>📅 Minggu, 20 April 2027</h3>
     <h3>🕒 Pukul 10.00 WIB</h3>
     <h3>📍 Gedung Serbaguna Kebon Baru, Jakarta Selatan</h3>
     <a href="https://maps.google.com" target="_blank">Lihat Lokasi di Google Maps</a>
