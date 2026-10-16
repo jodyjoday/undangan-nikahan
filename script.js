@@ -1,5 +1,5 @@
 // Hitung mundur ke tanggal acara
-const eventDate = new Date("Oct 25, 2026 10:00:00").getTime();
+const eventDate = new Date("April 20, 2027 10:00:00").getTime();
 const timerElement = document.getElementById("timer");
 
 setInterval(() => {
