@@ -42,7 +42,7 @@
 <section class="music">
   <h2>🎶 Musik Latar</h2>
   <audio id="bg-music" controls autoplay loop>
-    <source src="music/Endles_Love.mp3.mp3" type="audio/mpeg">
+    <source src="music/Endles_Love.mp3" type="audio/mpeg">
     Browser Anda tidak mendukung audio.
   </audio>
 </section>
