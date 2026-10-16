@@ -42,7 +42,7 @@
 <section class="music">
   <h2>🎶 Musik Latar</h2>
   <audio id="bg-music" controls autoplay loop>
-    <source src="images/music/Mariah Carey, Joe, 98 Degrees - Thank God I Found You (Official HD Video).mp3" type="audio/mpeg">
+    <source src="music/romantis.mp3" type="audio/mpeg">
     Browser Anda tidak mendukung audio.
   </audio>
 </section>
