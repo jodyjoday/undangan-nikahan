@@ -75,11 +75,3 @@ function drawFlowers() {
 }
 
 drawFlowers();
-window.addEventListener("load", () => {
-  const music = document.getElementById("bg-music");
-  // Unmute setelah halaman selesai dimuat
-  music.muted = false;
-  music.play().catch(() => {
-    console.log("Autoplay dicegah, user harus klik Play.");
-  });
-  
