@@ -46,6 +46,10 @@
     Browser Anda tidak mendukung audio.
   </audio>
 </section>
+	  <video autoplay muted loop id="bg-video">
+  <source src="video/prewedding.mp4" type="video/mp4">
+  Browser Anda tidak mendukung video.
+</video>
   </footer>
   <canvas id="flowerCanvas"></canvas>
 </body>
